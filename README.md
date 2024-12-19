@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @parkwonjae
-- 👀 I’m interested in NLP, especially commmonsense
 - 🌱 I’m currently learning NLP. 
 
 <!---
